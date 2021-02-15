@@ -1,0 +1,25 @@
+.deletePhoto {
+    width: 25px;
+    height: 25px;
+    float: right;
+    margin-left: 15px;
+}
+.deletePhoto:hover{
+    background: blue;
+}
+.donePhoto {
+    width: 25px;
+    height: 25px;
+    float: right;
+    margin-left: 15px;
+}
+.list {
+    width: 100%;
+    height: 50px;
+    border: red 1px solid;
+}
+.addPhoto {
+    width: 40px;
+    height: 40px;
+    float: right;
+}
